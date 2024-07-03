@@ -94,4 +94,4 @@ The insights gained from this project can drive strategic decisions and enhance 
 For any questions or feedback, please contact BOYARAJESH888@GMIL.COM
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
